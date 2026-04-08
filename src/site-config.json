@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Dynamic Sliding Door Repair",
+    "phone": "+17145898119",
+    "category": "window replacement company",
+    "city": "Long Beach",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Long Beach Window Experts",
+      "heroSubline": "Durable windows built for the California climate. Expert installation and lasting protection for your home.",
+      "aboutTitle": "Built to Last in Long Beach",
+      "aboutText": [
+        "Dynamic Sliding Door Repair started with a simple goal: provide Long Beach residents with window solutions that can withstand our unique coastal environment. We're not just installers; we're your neighbors, committed to enhancing the beauty and resilience of our community's homes.",
+        "Our approach is straightforward: quality materials, expert craftsmanship, and transparent communication. We understand the challenges posed by the California sun, occasional Santa Ana winds, and the ever-present earthquake risk. That's why we use durable, energy-efficient windows designed to protect your home and family.",
+        "We're proud to be a part of the Long Beach community. From Belmont Shore to Bixby Knolls, we're committed to providing reliable service and contributing to the well-being of our neighborhoods. When you choose Dynamic Sliding Door Repair, you're choosing a partner dedicated to the long-term value of your home."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Long Beach's climate and housing styles, ensuring the right window solutions for your needs."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "Our windows are built to withstand the California sun, wind, and potential seismic activity."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team guarantees precise and secure window installation for lasting performance."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide clear and upfront pricing, so you know exactly what to expect."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Get a free, no-obligation quote for window replacement or repair in Long Beach."
+    },
+    "services": [
+      {
+        "slug": "window-replacement",
+        "name": "Window Replacement",
+        "shortDescription": "Upgrade to energy-efficient, durable windows designed for the Long Beach climate.",
+        "description": "Is it time to replace your old, drafty windows? Dynamic Sliding Door Repair offers professional window replacement services tailored to the unique demands of Long Beach homes. From classic Craftsman bungalows in Belmont Heights to mid-century modern homes, we've got the perfect window styles to match your home's architecture and enhance its value. \n\nWe specialize in energy-efficient windows that keep your home comfortable year-round, reducing energy bills and minimizing the impact of the California sun. Our team handles everything from initial measurements and window selection to expert installation and cleanup. We work with a variety of window materials, including vinyl, wood, and aluminum, ensuring you get the right combination of durability, aesthetics, and affordability.\n\nLiving in an earthquake zone, we understand the importance of window security. We offer impact-resistant glass options that provide an added layer of protection for your family and belongings. Don't wait for another summer heat wave or winter chill – upgrade your windows with Dynamic Sliding Door Repair and experience the difference.",
+        "process": [
+          "Step 1: Consultation and Assessment: We'll discuss your needs, inspect your existing windows, and provide a detailed quote.",
+          "Step 2: Window Selection: Choose from a wide range of styles and materials to match your home's aesthetic and your budget.",
+          "Step 3: Professional Installation: Our experienced team will carefully remove your old windows and install your new ones with precision.",
+          "Step 4: Cleanup and Inspection: We'll ensure everything is clean and properly sealed, leaving you with beautiful, functional windows."
+        ],
+        "benefits": [
+          "Increased Energy Efficiency",
+          "Enhanced Home Value",
+          "Improved Comfort",
+          "Added Security"
+        ],
+        "faq": [
+          {
+            "question": "How long does window replacement take?",
+            "answer": "The duration depends on the number of windows being replaced, but most jobs can be completed in 1-2 days."
+          },
+          {
+            "question": "What types of windows are best for Long Beach?",
+            "answer": "Energy-efficient windows with Low-E glass coatings are ideal for blocking out the California sun and reducing heat transfer."
+          },
+          {
+            "question": "Do you offer financing options?",
+            "answer": "Yes, we offer flexible financing options to make window replacement more accessible for homeowners."
+          }
+        ]
+      },
+      {
+        "slug": "window-repair",
+        "name": "Window Repair",
+        "shortDescription": "Restore the functionality and appearance of your windows with our expert repair services.",
+        "description": "Don't let cracked glass, broken seals, or sticking frames compromise the comfort and security of your home. Dynamic Sliding Door Repair provides comprehensive window repair services throughout Long Beach. We address a wide range of issues, from minor glass replacements to complex frame repairs. Whether you have classic single-pane windows in a historic district or modern double-pane windows in a newer development, our team has the expertise to get them back in top condition.\n\nLeaky windows can lead to increased energy bills, water damage, and even mold growth. Our repair services focus on restoring the integrity of your windows, ensuring they are properly sealed and insulated. We use quality materials and proven techniques to deliver lasting repairs that stand up to the Long Beach climate. We understand the importance of preserving the original character of older homes, so we take extra care to match existing styles and finishes.\n\nOur window repair services can save you money compared to full window replacement. We'll assess the damage and provide an honest recommendation on whether repair or replacement is the best solution for your needs. We are committed to providing cost-effective solutions that extend the life of your windows and protect your investment.",
+        "process": [
+          "Step 1: Thorough Inspection: We'll assess the damage to your windows and provide a detailed diagnosis.",
+          "Step 2: Transparent Quote: We'll provide a clear and upfront quote for the necessary repairs.",
+          "Step 3: Expert Repair: Our skilled technicians will perform the repairs with precision and care.",
+          "Step 4: Quality Assurance: We'll ensure the repairs are completed to your satisfaction and the windows are functioning properly."
+        ],
+        "benefits": [
+          "Cost-Effective Solutions",
+          "Extended Window Lifespan",
+          "Improved Energy Efficiency",
+          "Enhanced Home Security"
+        ],
+        "faq": [
+          {
+            "question": "Can you repair windows with broken glass?",
+            "answer": "Yes, we offer glass replacement services for all types of windows."
+          },
+          {
+            "question": "How do I know if my window seals are broken?",
+            "answer": "Fogging or condensation between the panes of glass is a sign of a broken seal."
+          },
+          {
+            "question": "Do you offer emergency window repair services?",
+            "answer": "Yes, we provide emergency window repair services for urgent situations."
+          }
+        ]
+      },
+      {
+        "slug": "window-seal-repair",
+        "name": "Window Seal Repair",
+        "shortDescription": "Stop drafts and condensation with our professional window seal repair services in Long Beach.",
+        "description": "Broken window seals are a common problem in Long Beach, leading to energy loss, condensation, and reduced window lifespan. Dynamic Sliding Door Repair specializes in window seal repair, restoring the insulating properties of your windows and saving you money on energy bills. Our experienced technicians can identify and repair broken seals on all types of windows, including double-pane and triple-pane models.\n\nWhen window seals fail, the insulating gas between the panes escapes, allowing moisture to enter. This can lead to unsightly condensation, foggy glass, and even mold growth. Our repair services involve removing the damaged seal, cleaning the glass, and installing a new, airtight seal. We use high-quality materials that are designed to withstand the Long Beach climate and provide long-lasting performance.\n\nDon't let broken window seals compromise the comfort and efficiency of your home. Contact Dynamic Sliding Door Repair today for a free inspection and quote. We'll provide an honest assessment of your window seals and recommend the best repair solution for your needs. We understand the importance of maintaining the integrity of your windows, and we're committed to providing reliable and affordable seal repair services.",
+        "process": [
+          "Step 1: Seal Inspection: We'll examine your window seals for signs of damage or failure.",
+          "Step 2: Cleaning and Preparation: We'll clean the glass and prepare the surface for the new seal.",
+          "Step 3: Seal Installation: We'll install a new, airtight seal using specialized equipment.",
+          "Step 4: Quality Check: We'll ensure the seal is properly installed and the window is functioning correctly."
+        ],
+        "benefits": [
+          "Improved Energy Efficiency",
+          "Reduced Condensation",
+          "Extended Window Lifespan",
+          "Cost Savings"
+        ],
+        "faq": [
+          {
+            "question": "How can I tell if my window seals are broken?",
+            "answer": "Look for condensation or fogging between the panes of glass."
+          },
+          {
+            "question": "Is it better to repair or replace windows with broken seals?",
+            "answer": "In many cases, seal repair is a more cost-effective option than full window replacement."
+          },
+          {
+            "question": "How long does window seal repair take?",
+            "answer": "Most seal repairs can be completed in a few hours."
+          }
+        ]
+      },
+      {
+        "slug": "glass-replacement",
+        "name": "Glass Replacement",
+        "shortDescription": "Replace cracked, broken, or fogged glass with our professional glass replacement services.",
+        "description": "Whether it's a shattered window from an accident or a fogged-up window due to seal failure, Dynamic Sliding Door Repair offers expert glass replacement services throughout Long Beach. We handle all types of glass replacement, from single-pane windows to insulated double-pane and triple-pane units. We work with a variety of glass types, including tempered glass, laminated glass, and low-E glass, ensuring you get the right glass for your specific needs.\n\nCracked or broken glass compromises the security and energy efficiency of your home. We provide prompt and reliable glass replacement services to restore the integrity of your windows and protect your property. Our experienced technicians will carefully remove the damaged glass and install a new unit with precision. We take extra care to match the existing style and finish of your windows, ensuring a seamless and aesthetically pleasing result.\n\nFogged-up glass is a sign of seal failure, allowing moisture to enter between the panes. Replacing the glass unit is often the most effective way to resolve this issue and restore the clarity of your windows. We offer competitive pricing and quick turnaround times, so you can get your windows back in top condition without breaking the bank.",
+        "process": [
+          "Step 1: Measurement and Ordering: We'll measure the existing glass and order a replacement unit that matches your specifications.",
+          "Step 2: Glass Removal: We'll carefully remove the damaged glass from the window frame.",
+          "Step 3: Glass Installation: We'll install the new glass unit with precision and ensure it is properly sealed.",
+          "Step 4: Cleanup and Inspection: We'll clean up any debris and inspect the window to ensure it is functioning correctly."
+        ],
+        "benefits": [
+          "Restored Window Security",
+          "Improved Energy Efficiency",
+          "Enhanced Home Appearance",
+          "Clear Visibility"
+        ],
+        "faq": [
+          {
+            "question": "What types of glass do you offer?",
+            "answer": "We offer a variety of glass types, including tempered glass, laminated glass, and low-E glass."
+          },
+          {
+            "question": "How long does glass replacement take?",
+            "answer": "Glass replacement can typically be completed in a few hours, depending on the size and complexity of the job."
+          },
+          {
+            "question": "Do you offer emergency glass replacement services?",
+            "answer": "Yes, we provide emergency glass replacement services for urgent situations."
+          }
+        ]
+      },
+      {
+        "slug": "window-frame-repair",
+        "name": "Window Frame Repair",
+        "shortDescription": "Restore the structural integrity and beauty of your windows with our frame repair services.",
+        "description": "Damaged window frames can compromise the functionality and appearance of your windows, leading to drafts, leaks, and reduced energy efficiency. Dynamic Sliding Door Repair offers expert window frame repair services throughout Long Beach, addressing issues such as rot, cracks, and warping. Our experienced technicians can repair frames made of wood, vinyl, and aluminum, restoring their structural integrity and extending the life of your windows.\n\nRot is a common problem for wood window frames in coastal areas like Long Beach, where moisture levels are high. We use specialized techniques to remove the rot, treat the wood, and repair the damaged areas. We can also repair cracks and warping in vinyl and aluminum frames, ensuring they are properly sealed and aligned.\n\nOur window frame repair services can save you money compared to full window replacement. We'll assess the damage and provide an honest recommendation on whether repair or replacement is the best solution for your needs. We're committed to providing cost-effective solutions that protect your investment and enhance the beauty of your home.",
+        "process": [
+          "Step 1: Frame Inspection: We'll thoroughly inspect your window frames for signs of damage or deterioration.",
+          "Step 2: Damage Assessment: We'll assess the extent of the damage and determine the best repair approach.",
+          "Step 3: Frame Repair: Our skilled technicians will perform the necessary repairs, using high-quality materials and proven techniques.",
+          "Step 4: Sealing and Finishing: We'll seal and finish the repaired frames to protect them from the elements and enhance their appearance."
+        ],
+        "benefits": [
+          "Restored Window Functionality",
+          "Improved Energy Efficiency",
+          "Extended Window Lifespan",
+          "Enhanced Home Appearance"
+        ],
+        "faq": [
+          {
+            "question": "What types of window frames can you repair?",
+            "answer": "We can repair frames made of wood, vinyl, and aluminum."
+          },
+          {
+            "question": "How do I know if my window frames need repair?",
+            "answer": "Look for signs of rot, cracks, warping, or leaks."
+          },
+          {
+            "question": "Can you match the existing color and finish of my window frames?",
+            "answer": "Yes, we can match the existing color and finish of your window frames to ensure a seamless repair."
+          }
+        ]
+      },
+      {
+        "slug": "new-construction-windows",
+        "name": "New Construction Windows",
+        "shortDescription": "Expert window installation for new homes and renovations in Long Beach.",
+        "description": "Building a new home or renovating an existing property in Long Beach? Dynamic Sliding Door Repair provides professional window installation services for new construction projects. We work closely with homeowners, builders, and architects to ensure the perfect windows are selected and installed to meet your specific needs and design preferences.\n\nWe offer a wide range of window styles, materials, and energy-efficient options to choose from. Our experienced team understands the importance of proper window installation for energy efficiency, weather resistance, and long-term performance. We'll ensure your windows are installed according to the highest standards, providing a seamless and weathertight seal.\n\nFrom initial planning to final inspection, we're committed to providing exceptional service and quality workmanship. We understand the unique challenges of new construction projects in Long Beach, including building codes, environmental regulations, and the need for durable materials that can withstand the coastal climate. Trust Dynamic Sliding Door Repair to provide reliable and professional window installation services for your new construction project.",
+        "process": [
+          "Step 1: Consultation and Planning: We'll discuss your project goals, review architectural plans, and recommend the best window solutions.",
+          "Step 2: Window Selection: Choose from a wide range of styles, materials, and energy-efficient options.",
+          "Step 3: Professional Installation: Our experienced team will install your windows according to the highest standards.",
+          "Step 4: Quality Assurance: We'll inspect the installation to ensure it meets your expectations and all building codes."
+        ],
+        "benefits": [
+          "Energy-Efficient Windows",
+          "Professional Installation",
+          "Increased Home Value",
+          "Weather Resistance"
+        ],
+        "faq": [
+          {
+            "question": "What types of windows are suitable for new construction?",
+            "answer": "We offer a variety of window types suitable for new construction, including vinyl, wood, and aluminum windows."
+          },
+          {
+            "question": "Do you handle window installation permits?",
+            "answer": "Yes, we can assist with obtaining the necessary window installation permits."
+          },
+          {
+            "question": "How long does window installation take for a new construction project?",
+            "answer": "The duration depends on the size and complexity of the project, but we'll provide a realistic timeline during the planning phase."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Los Angeles",
+        "slug": "los-angeles-ca",
+        "state": "CA",
+        "content": "Dynamic Sliding Door Repair is proud to serve the vibrant city of Los Angeles, California! From the iconic Hollywood Hills to the bustling downtown area, we provide expert window and sliding door replacement and repair services to homeowners throughout the city. We understand the unique architectural styles found in Los Angeles, from the charming 1920s Spanish Colonial Revival homes to modern contemporary designs, and we tailor our services to perfectly complement your home's aesthetic. \n\nOur team is experienced in handling a wide range of window and sliding door issues, including broken glass, damaged frames, faulty rollers, and air leaks. We use only the highest quality materials and employ proven techniques to ensure lasting results. Whether you're looking to improve energy efficiency, enhance security, or simply update the look of your home, Dynamic Sliding Door Repair is here to help. We are dedicated to providing exceptional customer service and reliable solutions to all your window and sliding door needs in Los Angeles.",
+        "localContext": "Los Angeles is known for its diverse neighborhoods and warm, dry climate year-round, making energy-efficient windows and doors a smart investment for homeowners.",
+        "nearbyAreas": [
+          "Beverly Hills",
+          "Santa Monica",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "Dynamic Sliding Door Repair is delighted to offer our expert services to the beautiful city of Pasadena, California! With its rich history and stunning architecture, Pasadena presents unique challenges and opportunities for window and sliding door replacement and repair. We specialize in working with the city's many historic homes, including the charming 1910s-30s Craftsman bungalows that Pasadena is known for. \n\nWe understand the importance of preserving the character of these homes while improving their energy efficiency and functionality. Our team is skilled in handling delicate repairs and replacements, using materials and techniques that are sympathetic to the original design. Dynamic Sliding Door Repair is committed to providing Pasadena homeowners with top-quality service and lasting solutions for all their window and sliding door needs.",
+        "localContext": "Pasadena's architectural heritage, particularly its abundance of Craftsman bungalows, requires specialized knowledge and care when it comes to window and door replacements.",
+        "nearbyAreas": [
+          "Altadena",
+          "San Marino",
+          "South Pasadena"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "Dynamic Sliding Door Repair is proud to serve the master-planned community of Irvine, California. We understand the unique needs of Irvine homeowners, who often seek energy-efficient and stylish window and sliding door solutions to complement their homes built from the 1970s to the present. \n\nWe offer a wide range of products and services to enhance the comfort and value of your Irvine home. Whether you're looking to reduce energy costs, improve security, or simply update the look of your living space, our team is here to help. We are committed to providing exceptional customer service and reliable solutions to all your window and sliding door needs in Irvine.",
+        "localContext": "Irvine is a master-planned community known for its well-maintained homes and commitment to energy efficiency, making window and door upgrades a popular choice for homeowners.",
+        "nearbyAreas": [
+          "Newport Beach",
+          "Tustin",
+          "Lake Forest"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "Dynamic Sliding Door Repair is excited to offer our services to the growing community of Santa Clarita, California. Known for its newer, master-planned communities built from the 1990s to the 2020s, Santa Clarita presents a unique blend of modern living and family-friendly atmosphere. We understand the importance of energy efficiency and security for Santa Clarita homeowners, and we offer a wide range of window and sliding door solutions to meet those needs.\n\nOur team is experienced in working with various architectural styles found in Santa Clarita, and we can help you choose the perfect windows and doors to complement your home's design. Whether you're looking to replace outdated windows, repair damaged sliding doors, or add a touch of elegance to your living space, Dynamic Sliding Door Repair is here to help. We are committed to providing exceptional customer service and reliable solutions to all your window and sliding door needs in Santa Clarita.",
+        "localContext": "Santa Clarita's newer homes often benefit from energy-efficient window and door upgrades to maximize comfort and minimize energy costs in the warm climate.",
+        "nearbyAreas": [
+          "Valencia",
+          "Saugus",
+          "Canyon Country"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "Dynamic Sliding Door Repair is proud to serve the community of Torrance, California. With its charming 1950s-60s post-war homes, Torrance offers a unique blend of classic California living and modern convenience. We understand the importance of preserving the character of these homes while improving their energy efficiency and functionality. \n\nOur team is experienced in working with various architectural styles found in Torrance, and we can help you choose the perfect windows and doors to complement your home's design. Whether you're looking to replace outdated windows, repair damaged sliding doors, or add a touch of elegance to your living space, Dynamic Sliding Door Repair is here to help. We are committed to providing exceptional customer service and reliable solutions to all your window and sliding door needs in Torrance.",
+        "localContext": "Torrance's mid-century homes often require specialized attention when it comes to window and door replacements to maintain their original charm and improve energy efficiency.",
+        "nearbyAreas": [
+          "Redondo Beach",
+          "Gardena",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "Dynamic Sliding Door Repair is your local expert for window and sliding door solutions in Long Beach, CA! We understand the unique coastal environment and diverse architectural styles found throughout Long Beach, from historic Craftsman bungalows to modern beachfront properties. We are dedicated to providing high-quality repair and replacement services to enhance the beauty, security, and energy efficiency of your home.\n\nWhether you're dealing with foggy windows, sticking sliding doors, or drafts that are driving up your energy bills, our experienced technicians are here to help. We offer a wide range of window and door options to suit your specific needs and budget. Let Dynamic Sliding Door Repair help you transform your Long Beach home with beautiful and functional windows and doors.",
+        "localContext": "Long Beach's coastal location means homes benefit from durable, weather-resistant windows and doors.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Signal Hill",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Anaheim",
+        "slug": "anaheim-ca",
+        "state": "CA",
+        "content": "Dynamic Sliding Door Repair is pleased to offer our expert window and sliding door services to homeowners in Anaheim, CA! As a vibrant city with a mix of residential neighborhoods and thriving commercial areas, Anaheim presents diverse needs for window and door solutions. We cater to these needs with a comprehensive range of services, from minor repairs to complete replacements, ensuring your home is both beautiful and energy-efficient.\n\nWhether you're near Disneyland or in a quieter residential area, we understand the importance of having windows and doors that provide security, insulation, and aesthetic appeal. Our skilled technicians are equipped to handle any job, big or small, with professionalism and attention to detail. Choose Dynamic Sliding Door Repair for reliable and affordable window and sliding door services in Anaheim.",
+        "localContext": "Anaheim's diverse neighborhoods benefit from a variety of window and door styles to complement different architectural designs and personal preferences.",
+        "nearbyAreas": [
+          "Fullerton",
+          "Garden Grove",
+          "Orange"
+        ]
+      },
+      {
+        "city": "Huntington Beach",
+        "slug": "huntington-beach-ca",
+        "state": "CA",
+        "content": "Dynamic Sliding Door Repair is dedicated to serving the residents of Huntington Beach, California, also known as Surf City USA! With its iconic beaches and laid-back lifestyle, Huntington Beach demands window and sliding door solutions that can withstand the coastal elements while enhancing the beauty of your home. We offer a variety of durable and stylish options to meet your specific needs.\n\nFrom beachfront bungalows to inland family homes, we understand the importance of having windows and doors that provide protection from the sun, wind, and salt air. Our experienced team is committed to delivering top-quality workmanship and exceptional customer service. Let Dynamic Sliding Door Repair help you create a comfortable and beautiful living space in Huntington Beach.",
+        "localContext": "Huntington Beach's coastal environment requires windows and doors that are resistant to salt air and strong winds.",
+        "nearbyAreas": [
+          "Costa Mesa",
+          "Fountain Valley",
+          "Westminster"
+        ]
+      },
+      {
+        "city": "Lakewood",
+        "slug": "lakewood-ca",
+        "state": "CA",
+        "content": "Dynamic Sliding Door Repair proudly serves the city of Lakewood, CA, providing top-notch window and sliding door repair and replacement services. Known for its well-maintained homes and family-friendly atmosphere, Lakewood residents value quality and reliability. We are committed to delivering both with our expert services and superior products.\n\nWhether you're dealing with a broken window, a sticking sliding door, or simply looking to upgrade your home's energy efficiency, we have the solutions you need. Our experienced technicians are dedicated to providing exceptional customer service and ensuring your complete satisfaction. Choose Dynamic Sliding Door Repair for all your window and sliding door needs in Lakewood.",
+        "localContext": "Lakewood homes often benefit from energy-efficient window upgrades to maintain comfortable indoor temperatures year-round.",
+        "nearbyAreas": [
+          "Bellflower",
+          "Cerritos",
+          "Long Beach"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Window Replacement",
+        "text": "Dynamic Sliding Door Repair did an amazing job replacing all the windows in my Belmont Shore home. The new windows look fantastic and have already made a noticeable difference in my energy bill. The team was professional, efficient, and cleaned up everything perfectly. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Window Repair",
+        "text": "I had a broken window seal that was causing condensation. Dynamic Sliding Door Repair came out quickly and repaired the seal at a reasonable price. My window is now clear and looks like new. They were very responsive and easy to work with.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Glass Replacement",
+        "text": "A stray baseball shattered my living room window. Dynamic Sliding Door Repair replaced the glass quickly and efficiently. They were very professional and the new glass looks great. I appreciate their prompt service and attention to detail.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Window Frame Repair",
+        "text": "The wood window frames in my 1920s Craftsman home were starting to rot. Dynamic Sliding Door Repair did an excellent job repairing the frames and matching the original finish. They saved me a lot of money compared to replacing the entire windows. I highly recommend their services!",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Susan P.",
+        "rating": 4,
+        "service": "New Construction Windows",
+        "text": "Dynamic Sliding Door Repair installed the windows in my new home. They helped me choose energy-efficient windows that fit my budget and style. The installation was done professionally and the windows look great. I'm very happy with their service.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Window Replacement",
+        "text": "Great experience with Dynamic Sliding Door Repair. They replaced all the windows in my apartment building in Long Beach. The whole process was smooth and easy. The installers were on time, professional, and cleaned up everything after themselves. Would definitely use them again.",
+        "date": "2024-10-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Long Beach Window Replacement | Dynamic Sliding Door Repair",
+        "description": "Expert window replacement and repair in Long Beach, CA. Energy-efficient windows, durable materials, and professional installation."
+      },
+      "about": {
+        "title": "About Dynamic Sliding Door Repair | Long Beach, CA",
+        "description": "Learn more about Dynamic Sliding Door Repair, your trusted window replacement and repair experts in Long Beach."
+      },
+      "services": {
+        "title": "Window Services | Long Beach, CA | Dynamic Sliding Door Repair",
+        "description": "Comprehensive window services in Long Beach, CA. Replacement, repair, glass replacement, and more."
+      },
+      "contact": {
+        "title": "Contact Dynamic Sliding Door Repair | Long Beach, CA",
+        "description": "Contact Dynamic Sliding Door Repair for a free window replacement or repair quote in Long Beach, CA."
+      },
+      "reviews": {
+        "title": "Dynamic Sliding Door Repair Reviews | Long Beach, CA",
+        "description": "Read reviews from satisfied customers of Dynamic Sliding Door Repair in Long Beach, CA."
+      },
+      "service-areas": {
+        "title": "Service Areas | Dynamic Sliding Door Repair",
+        "description": "Dynamic Sliding Door Repair service areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "window-replacement": "/images/service-window-replacement.webp",
+      "window-repair": "/images/service-window-repair.webp",
+      "window-seal-repair": "/images/service-window-seal-repair.webp",
+      "glass-replacement": "/images/service-glass-replacement.webp",
+      "window-frame-repair": "/images/service-window-frame-repair.webp",
+      "new-construction-windows": "/images/service-new-construction-windows.webp"
+    },
+    "servicesResponsive": {
+      "window-replacement": {
+        "src": "/images/service-window-replacement.webp",
+        "srcset": "/images/service-window-replacement-400w.webp 400w, /images/service-window-replacement-800w.webp 800w, /images/service-window-replacement-1200w.webp 1200w, /images/service-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-repair": {
+        "src": "/images/service-window-repair.webp",
+        "srcset": "/images/service-window-repair-400w.webp 400w, /images/service-window-repair-800w.webp 800w, /images/service-window-repair-1200w.webp 1200w, /images/service-window-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-seal-repair": {
+        "src": "/images/service-window-seal-repair.webp",
+        "srcset": "/images/service-window-seal-repair-400w.webp 400w, /images/service-window-seal-repair-800w.webp 800w, /images/service-window-seal-repair-1200w.webp 1200w, /images/service-window-seal-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "glass-replacement": {
+        "src": "/images/service-glass-replacement.webp",
+        "srcset": "/images/service-glass-replacement-400w.webp 400w, /images/service-glass-replacement-800w.webp 800w, /images/service-glass-replacement-1200w.webp 1200w, /images/service-glass-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-frame-repair": {
+        "src": "/images/service-window-frame-repair.webp",
+        "srcset": "/images/service-window-frame-repair-400w.webp 400w, /images/service-window-frame-repair-800w.webp 800w, /images/service-window-frame-repair-1200w.webp 1200w, /images/service-window-frame-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "new-construction-windows": {
+        "src": "/images/service-new-construction-windows.webp",
+        "srcset": "/images/service-new-construction-windows-400w.webp 400w, /images/service-new-construction-windows-800w.webp 800w, /images/service-new-construction-windows-1200w.webp 1200w, /images/service-new-construction-windows.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
